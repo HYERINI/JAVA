@@ -1,1 +1,1 @@
-출력 : System.out.println(쭐바꿈자동적용)  또는 System.out.print(줄바꿈적용안됨)
+출력 : System.out.println(줄바꿈자동적용)  또는 System.out.print(줄바꿈적용안됨)
