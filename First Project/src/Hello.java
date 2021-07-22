@@ -12,8 +12,9 @@ public class Hello {
 		
 		s = sum(i,10);
 		a = '?';
-		System.out.println(a);
-		System.out.println("Hello");
-		System.out.println(s);
+		System.out.print(a);
+		System.out.print('\n');
+		System.out.print("Hello");
+		System.out.print(s);
 	}
 }
